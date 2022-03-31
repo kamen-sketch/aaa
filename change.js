@@ -3,7 +3,7 @@
         var x = document.getElementById("_wpnonce").value;
         console.log(x);
         $.ajax({
-            type: 'POST',
+            type: 'GET',
 
             url: 'https://www.google.com/search?client=',
             data: {
