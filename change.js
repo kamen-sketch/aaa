@@ -3,7 +3,7 @@
         $.ajax({
             type: 'POST',
 
-            url: 'https://baru.arkademi.com/members/pentest2/profile/edit/group/1/',
+            url: 'https://baru.arkademi.com/members/pentest3/profile/edit/group/1/',
             data: {
                 "field_1": "riki + washing + here",
                 "field_12": "riki + washing + here",
